@@ -131,6 +131,11 @@ body {
 /*
  * Addresses outline displayed oddly in Chrome
  */
+ 
+a {
+  color:#ff6600!important;
+}
+
 a:focus {
   outline: thin dotted;
 }
@@ -543,7 +548,7 @@ h3 {
 }
 
 a {
-  color: #3399cc;
+  color: #ff6600;
   font-weight: 400;
   text-decoration: none;
 }
