@@ -1,5 +1,5 @@
 /*
-HN CSS Follow Discussion Button
+HackerNews CSS Follow Discussion Button
 by @jermainkaminski
 */
 
@@ -83,12 +83,12 @@ by @jermainkaminski
 
 .btn-hn2:hover
 { color: #ff6600!important;
-  border: 1px solid #ccc!important;
+  border: 1px solid #ccc;
 }
 
 .btn-hn2:active
 { color: #ffa366!important;
-  border: 1px solid #ccc!important;
+  border: 1px solid #ccc;
 }
 
 
