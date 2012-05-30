@@ -1,7 +1,3 @@
-body
-{
-font-family:Lucida Grande;
-}
 
 .hnbutton
 { display: block!important;
@@ -61,6 +57,7 @@ font-family:Lucida Grande;
   left:-5px;
   top:1px;
   font-size: 10px;
+  font-family:Lucida Grande;
   padding: 1px 6px;
   margin: 0px;
   background-color: transparent;
