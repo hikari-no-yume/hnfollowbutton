@@ -797,7 +797,7 @@ section {
   margin: 20px 0;
   margin-top: 190px;
   position: relative;
-  background: #fbfbfb;
+  background: #fff;
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   -o-border-radius: 3px;
@@ -925,6 +925,7 @@ footer {
     -o-text-overflow: ellipsis;
     -ms-text-overflow: ellipsis;
   }
+  
   header p {
     display: none;
   }
