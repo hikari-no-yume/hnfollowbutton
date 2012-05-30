@@ -676,7 +676,8 @@ header {
 header h1 {
   font: 35px/40px "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #ff6600;
-  padding-left:10px;
+  position: relative;
+  left: -15px;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
