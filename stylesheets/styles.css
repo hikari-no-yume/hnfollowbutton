@@ -659,7 +659,7 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background: #ff6600;
+  background: #fff;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -670,8 +670,7 @@ header {
 }
 header h1 {
   font: 40px/48px "Copse", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #ffffff;
-  text-shadow: 0px 2px 0px #235796;
+  color: #ff6600;
   margin: 0px;
   white-space: nowrap;
   overflow: hidden;
