@@ -712,7 +712,7 @@ dt {
 }
 
 header {
-  padding: 25px 20px 0px 20px;
+  padding: 20px 20px 0px 20px;
   margin: 0;
   position: fixed;
   top: 0;
@@ -730,7 +730,8 @@ header {
   min-height: 76px;
 }
 header h1 {
-  font: 28px "Lucida Grande";
+  font: 26px "Lucida Grande";
+  letter-spacing:-1px;
   color: #ff6600;
   position: relative;
   left: -15px;
