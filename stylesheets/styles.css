@@ -1,11 +1,10 @@
 /*
 HN CSS Follow Discussion Button
-by Jermain Kaminski
+by @jermainkaminski
 */
 
 .hnbutton
 { display: block!important;
-font-family:Lucida Grande!important;
 }
 
 .btn-hn1
@@ -62,6 +61,7 @@ font-family:Lucida Grande!important;
   left:-5px;
   top:1px;
   font-size: 10px;
+  font-family:Lucida Grande;
   padding: 1px 6px;
   margin: 0px;
   background-color: transparent;
