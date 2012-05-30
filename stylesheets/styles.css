@@ -82,13 +82,13 @@ by @jermainkaminski
 }
 
 .btn-hn2:hover
-{ color: #ff6600;
-  border: 1px solid #ccc;
+{ color: #ff6600!important;
+  border: 1px solid #ccc!important;
 }
 
 .btn-hn2:active
-{ color: #ffa366;
-  border: 1px solid #ccc;
+{ color: #ffa366!important;
+  border: 1px solid #ccc!important;
 }
 
 
@@ -203,7 +203,7 @@ a:focus {
 a:hover,
 a:active {
   outline: 0;
-  opacity:#ffa366;
+  opacity:#ffaa33;
 }
 
 /* =============================================================================
