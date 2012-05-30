@@ -656,7 +656,7 @@ dt {
 }
 
 header {
-  padding: 25px 20px 20px 20px;
+  padding: 25px 20px 0px 20px;
   margin: 0;
   position: fixed;
   top: 0;
