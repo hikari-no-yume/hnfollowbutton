@@ -203,7 +203,7 @@ a:focus {
 a:hover,
 a:active {
   outline: 0;
-  color:#ffaa33;
+  color:#ffaa33!important;
 }
 
 /* =============================================================================
