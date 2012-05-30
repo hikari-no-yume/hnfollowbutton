@@ -1,4 +1,3 @@
-
 .hnbutton
 { display: block!important;
 }
@@ -54,7 +53,7 @@
 { border-left: 0px!important;
   height: 20px!important;
   position:relative;
-  left:-5px;
+  left:-3px;
   top:1px;
   font-size: 10px;
   font-family:Lucida Grande;
