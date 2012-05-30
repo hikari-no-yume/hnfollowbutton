@@ -679,7 +679,7 @@ header h1 {
   -o-text-overflow: ellipsis;
   -ms-text-overflow: ellipsis;
   -webkit-font-smoothing: antialiased;
-font-weight: 200;
+  font-weight: 200;
 }
 header p {
   color: #d8d8d8;
